@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "DAO"
+  "defaultProject": "DAO",
+  "cli": {
+    "analytics": "b97765e5-fe5b-4387-9eca-9434c9b88105"
+  }
 }
